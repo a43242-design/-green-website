@@ -4,6 +4,7 @@ export default defineConfig({
   base: '/-green-website/',
   plugins: [
     tailwindcss(),
+    
   ],
 })
 
